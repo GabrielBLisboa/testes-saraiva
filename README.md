@@ -1,8 +1,6 @@
-## Hello! We are a team from Ada Tech test automation course and chose the website (https://www.saraiva.com.br/) to do the tests.
-
 ## Automated Tests with Selenium Webdriver
 
-This project is part of the 7th module of the Santander Coders program.
+This project is part of the 7th module of the Santander Coders program. We chose the website (https://www.saraiva.com.br/) to do the tests.
 
 ## Project requirements:
 - Gherkin scenarios
