@@ -26,7 +26,6 @@ QA, Automated Testing, Java, Gherkin, Selenium Webdriver, Cucumber...
 
 
 ## Contacts
-
 https://www.linkedin.com/in/fernanda-schiller/
 <br>
 https://www.linkedin.com/in/gabrielblisboa/
