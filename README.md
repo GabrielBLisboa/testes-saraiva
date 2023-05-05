@@ -1,18 +1,11 @@
-# Projeto-final-grupo3
+## Hello! We formed a team from the Ada Tech test automation course and chose the website (https://www.saraiva.com.br/) to do the tests.
 
-# Hello! We formed a team from the Ada Tech test automation course and chose the website (https://www.saraiva.com.br/) to do the tests.
+## Automated Tests with Selenium Webdriver
 
-
-# Evaluation Automated Tests with Selenium Webdriver
-
-This project is part of the evaluation of module 7 of the Test Automation course of the Santander Coders program.
-
-In this project, in Java language, test concepts presented throughout the course were applied.
+This project is part of the 7th module of the Santander Coders program.
 
 ## Project requirements:
 ![image](https://user-images.githubusercontent.com/107883675/235398183-365d3511-3c21-4919-8985-384a3095b98b.png)
-
-
 
 ## Learnings
 
