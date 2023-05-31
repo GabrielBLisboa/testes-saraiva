@@ -4,6 +4,8 @@ Feature:  Cesta de produtos
   Quero poder adicionar e gerenciar produtos em uma cesta
   Para poder visualizar dados da minha possível compra
 
+#duuud
+
   Scenario: adicionar um produto na cesta
     Given fez a busca de um produto
     When ao comprar dois produtos
