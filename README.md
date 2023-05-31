@@ -1,2 +1,1 @@
-# projeto-final-grupo3
-
+## Changes made since the course final delivery are here
